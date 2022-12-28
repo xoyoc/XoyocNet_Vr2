@@ -34,10 +34,10 @@ collections:
       - { label: "Etiquetas", name: "tags", widget: "list" }
 
   - name: "pages"
-    label: "Pages"
+    label: "Páginas"
     files:
       - file: "src/pages/index.md"
-        label: "Landing Page"
+        label: "Página de inicio"
         name: "index"
         fields:
           - {
@@ -46,37 +46,37 @@ collections:
               widget: "hidden",
               default: "index-page",
             }
-          - { label: Title, name: title, widget: string }
-          - { label: Image, name: image, widget: image }
-          - { label: Heading, name: heading, widget: string }
-          - { label: Subheading, name: subheading, widget: string }
+          - { label: Titulo, name: title, widget: string }
+          - { label: Imagenes, name: image, widget: image }
+          - { label: Encabezado, name: heading, widget: string }
+          - { label: SubEncabezado, name: subheading, widget: string }
           - {
               label: Mainpitch,
               name: mainpitch,
               widget: object,
               fields:
                 [
-                  { label: Title, name: title, widget: string },
-                  { label: Description, name: description, widget: text },
+                  { label: Titulo, name: title, widget: string },
+                  { label: Descripción, name: description, widget: text },
                 ],
             }
-          - { label: Description, name: description, widget: string }
+          - { label: Descripción, name: description, widget: string }
           - {
               label: Intro,
               name: intro,
               widget: object,
               fields:
                 [
-                  { label: Heading, name: heading, widget: string },
-                  { label: Description, name: description, widget: text },
+                  { label: Encabezado, name: heading, widget: string },
+                  { label: Descripción, name: description, widget: text },
                   {
                     label: Blurbs,
                     name: blurbs,
                     widget: list,
                     fields:
                       [
-                        { label: Image, name: image, widget: image },
-                        { label: Text, name: text, widget: text },
+                        { label: Imagen, name: image, widget: image },
+                        { label: Texto, name: text, widget: text },
                       ],
                   },
                 ],
@@ -87,16 +87,16 @@ collections:
               widget: object,
               fields:
                 [
-                  { label: Heading, name: heading, widget: string },
-                  { label: Description, name: description, widget: text },
+                  { label: Encabezado, name: heading, widget: string },
+                  { label: Descripción, name: description, widget: text },
                   {
                     label: Image1,
                     name: image1,
                     widget: object,
                     fields:
                       [
-                        { label: Image, name: image, widget: image },
-                        { label: Alt, name: alt, widget: string },
+                        { label: Imagen, name: image, widget: image },
+                        { label: Alternativo, name: alt, widget: string },
                       ],
                   },
                   {
@@ -105,8 +105,8 @@ collections:
                     widget: object,
                     fields:
                       [
-                        { label: Image, name: image, widget: image },
-                        { label: Alt, name: alt, widget: string },
+                        { label: Imagen, name: image, widget: image },
+                        { label: Alternativo, name: alt, widget: string },
                       ],
                   },
                   {
@@ -115,14 +115,14 @@ collections:
                     widget: object,
                     fields:
                       [
-                        { label: Image, name: image, widget: image },
-                        { label: Alt, name: alt, widget: string },
+                        { label: Imagen, name: image, widget: image },
+                        { label: Alternativo, name: alt, widget: string },
                       ],
                   },
                 ],
             }
       - file: "src/pages/about/index.md"
-        label: "About"
+        label: "Acerca"
         name: "about"
         fields:
           - {
@@ -131,10 +131,10 @@ collections:
               widget: "hidden",
               default: "about-page",
             }
-          - { label: "Title", name: "title", widget: "string" }
-          - { label: "Body", name: "body", widget: "markdown" }
+          - { label: "Titulo", name: "title", widget: "string" }
+          - { label: "Cuerpo", name: "body", widget: "markdown" }
       - file: "src/pages/products/index.md"
-        label: "Products Page"
+        label: "Página de productos"
         name: "products"
         fields:
           - {
@@ -143,18 +143,18 @@ collections:
               widget: "hidden",
               default: "product-page",
             }
-          - { label: Title, name: title, widget: string }
-          - { label: Image, name: image, widget: image }
-          - { label: Heading, name: heading, widget: string }
-          - { label: Description, name: description, widget: string }
+          - { label: Titulo, name: title, widget: string }
+          - { label: Imagen, name: image, widget: image }
+          - { label: Encabezado, name: heading, widget: string }
+          - { label: Descripción, name: description, widget: string }
           - {
               label: Intro,
               name: intro,
               widget: object,
               fields:
                 [
-                  { label: Heading, name: heading, widget: string },
-                  { label: Description, name: description, widget: text },
+                  { label: Encabezado, name: heading, widget: string },
+                  { label: Descripción, name: description, widget: text },
                   {
                     label: Blurbs,
                     name: blurbs,
@@ -162,7 +162,7 @@ collections:
                     fields:
                       [
                         { label: Image, name: image, widget: image },
-                        { label: Text, name: text, widget: text },
+                        { label: Texto, name: text, widget: text },
                       ],
                   },
                 ],
@@ -173,16 +173,16 @@ collections:
               widget: object,
               fields:
                 [
-                  { label: Heading, name: heading, widget: string },
-                  { label: Description, name: description, widget: text },
+                  { label: Encabezado, name: heading, widget: string },
+                  { label: Descripción, name: description, widget: text },
                   {
                     label: Image1,
                     name: image1,
                     widget: object,
                     fields:
                       [
-                        { label: Image, name: image, widget: image },
-                        { label: Alt, name: alt, widget: string },
+                        { label: Imagen, name: image, widget: image },
+                        { label: Alternativo, name: alt, widget: string },
                       ],
                   },
                   {
@@ -191,8 +191,8 @@ collections:
                     widget: object,
                     fields:
                       [
-                        { label: Image, name: image, widget: image },
-                        { label: Alt, name: alt, widget: string },
+                        { label: Imagen, name: image, widget: image },
+                        { label: Alternativo, name: alt, widget: string },
                       ],
                   },
                   {
@@ -201,8 +201,8 @@ collections:
                     widget: object,
                     fields:
                       [
-                        { label: Image, name: image, widget: image },
-                        { label: Alt, name: alt, widget: string },
+                        { label: Imagen, name: image, widget: image },
+                        { label: Alternativo, name: alt, widget: string },
                       ],
                   },
                 ],
@@ -213,8 +213,8 @@ collections:
               widget: list,
               fields:
                 [
-                  { label: Quote, name: quote, widget: string },
-                  { label: Author, name: author, widget: string },
+                  { label: Cita, name: quote, widget: string },
+                  { label: Autor, name: author, widget: string },
                 ],
             }
           - { label: Full_image, name: full_image, widget: image }
@@ -224,8 +224,8 @@ collections:
               widget: object,
               fields:
                 [
-                  { label: Heading, name: heading, widget: string },
-                  { label: Description, name: description, widget: string },
+                  { label: Enzabezado, name: heading, widget: string },
+                  { label: Descripción, name: description, widget: string },
                   {
                     label: Plans,
                     name: plans,
@@ -235,7 +235,7 @@ collections:
                         { label: Plan, name: plan, widget: string },
                         { label: Price, name: price, widget: string },
                         {
-                          label: Description,
+                          label: Descripción,
                           name: description,
                           widget: string,
                         },
