@@ -2,11 +2,11 @@ backend:
   name: git-gateway
   branch: main
   commit_messages:
-    create: "Create {{collection}} “{{slug}}”"
-    update: "Update {{collection}} “{{slug}}”"
-    delete: "Delete {{collection}} “{{slug}}”"
-    uploadMedia: "[skip ci] Upload “{{path}}”"
-    deleteMedia: "[skip ci] Delete “{{path}}”"
+    create: "Crear {{collection}} “{{slug}}”"
+    update: "Actualizar {{collection}} “{{slug}}”"
+    delete: "Eliminar {{collection}} “{{slug}}”"
+    uploadMedia: "[skip ci] Cargar “{{path}}”"
+    deleteMedia: "[skip ci] Eliminar “{{path}}”"
 
 local_backend: true
 media_folder: static/img
@@ -25,13 +25,13 @@ collections:
           widget: "hidden",
           default: "blog-post",
         }
-      - { label: "Title", name: "title", widget: "string" }
-      - { label: "Publish Date", name: "date", widget: "datetime" }
-      - { label: "Description", name: "description", widget: "text" }
-      - { label: "Featured Post", name: "featuredpost", widget: "boolean" }
-      - { label: "Featured Image", name: "featuredimage", widget: image }
-      - { label: "Body", name: "body", widget: "markdown" }
-      - { label: "Tags", name: "tags", widget: "list" }
+      - { label: "Titulo", name: "title", widget: "string" }
+      - { label: "Fecha Publicación", name: "date", widget: "datetime" }
+      - { label: "Descripción", name: "description", widget: "text" }
+      - { label: "Publicación destacada", name: "featuredpost", widget: "boolean" }
+      - { label: "Imagen destacada", name: "featuredimage", widget: image }
+      - { label: "Cuerpo", name: "body", widget: "markdown" }
+      - { label: "Etiquetas", name: "tags", widget: "list" }
 
   - name: "pages"
     label: "Pages"
