@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: "Gatsby + Netlify CMS Starter",
+    title: "Xoyoc.Net",
     description:
-      "This repo contains an example business website that is built with Gatsby, and Netlify CMS.It follows the JAMstack architecture by using Git as a single source of truth, and Netlify for continuous deployment, and CDN distribution.",
+      "Antonio Xoyoc Becerra Farias Vivo en la costa michoacana pasionado Developer, Pilot Drone y Fotografo.",
   },
   plugins: [
     "gatsby-plugin-react-helmet",
