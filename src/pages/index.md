@@ -14,33 +14,32 @@ description: Un desarrollador frontend es un profesional de la tecnología que s
   pueden ver y interactuar directamente.
 intro:
   blurbs:
-    - image: /img/coffee.png
+    - image: /img/20539.jpg
       text: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
-    - image: /img/coffee-gear.png
+        Los drones, también conocidos como vehículos aéreos no tripulados (UAV,
+        por sus siglas en inglés), son dispositivos que pueden volar sin la
+        presencia de un piloto humano a bordo. En México, los drones han ganado
+        popularidad en diferentes ámbitos, como el comercio, la agricultura, la
+        fotografía y el entretenimiento.
+    - image: /img/25854.jpg
       text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
-    - image: /img/tutorials.png
+        Ser desarrollador web es una profesión que implica crear y mantener
+        sitios web y aplicaciones web. Esto incluye tareas como diseñar la
+        estructura y la apariencia de un sitio web, escribir y probar código, y
+        resolver problemas técnicos.
+    - image: /img/36680.jpg
       text: >
-        Love a great cup of coffee, but never knew how to make one? Bought a
-        fancy new Chemex but have no clue how to use it? Don't worry, we’re here
-        to help. You can schedule a custom 1-on-1 consultation with our baristas
-        to learn anything you want to know about coffee roasting and brewing.
-        Email us or call the store for details.
-    - image: /img/meeting-space.png
-      text: >
-        We believe that good coffee has the power to bring people together.
-        That’s why we decided to turn a corner of our shop into a cozy meeting
-        space where you can hang out with fellow coffee lovers and learn about
-        coffee making techniques. All of the artwork on display there is for
-        sale. The full price you pay goes to the artist.
+        La fotografía es el arte y técnica de crear imágenes fijas mediante la
+        captura de luz. Esta técnica se basa en el principio de que la luz pasa
+        a través de un objetivo y se refleja en un sensor o película
+        fotográfica, lo que permite capturar y registrar la imagen. La
+        fotografía se ha utilizado desde hace siglos como medio de documentación
+        y expresión artística, y ha evolucionado mucho a lo largo de la
+        historia. Hoy en día, la fotografía digital ha reemplazado en gran
+        medida a la fotografía tradicional en película, y se ha vuelto muy
+        accesible gracias a la popularización de cámaras digitales y teléfonos
+        móviles con cámaras de alta calidad. ¿Hay algo más en lo que te pueda
+        ayudar?
   heading: What we offer
   description: >
     Kaldi is the ultimate spot for coffee lovers who want to learn about their
