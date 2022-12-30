@@ -10,8 +10,11 @@ description: Los drones, también conocidos como vehículos aéreos no tripulado
 featuredpost: false
 featuredimage: /img/DJI_0001.jpg
 tags:
-  - flavor
-  - tasting
+  - Drone
+  - Fotografìa
+  - Aerea
+  - Paisajes
+  - Tecnología
 ---
 ![Fotografía area drone DJI](/img/DJI_0004 (1).jpg "Puerto de Lázaro Cárdenas")
 
@@ -28,5 +31,3 @@ En el comercio, por ejemplo, los drones se han utilizado para realizar entregas 
 Sin embargo, el uso de drones en México también está regulado por leyes y normas que buscan garantizar la seguridad y la privacidad de las personas. Por ejemplo, existen restricciones en cuanto a dónde se pueden volar los drones y a la altitud a la que pueden llegar. También se requiere obtener un permiso de la Secretaría de Comunicaciones y Transportes (SCT) para utilizar drones con fines comerciales o de investigación.
 
 En resumen, los drones han ganado popularidad en México debido a su versatilidad y a las múltiples aplicaciones que tienen. Sin embargo, su uso está regulado para garantizar la seguridad y la privacidad de las personas.
-
-<!--EndFragment-->
