@@ -1,29 +1,37 @@
 ---
 templateKey: blog-post
-title: A beginners’ guide to brewing with Chemex
-date: 2017-01-04T15:04:10.000Z
+title: Trabajo en equipo
+date: 2021-09-14T18:31:27.460Z
+description: "El trabajo en equipo es una forma de trabajo en la que varias
+  personas colaboran para lograr un objetivo común. "
 featuredpost: false
-featuredimage: /img/chemex.jpg
-description: Brewing with a Chemex probably seems like a complicated, time-consuming ordeal, but once you get used to the process, it becomes a soothing ritual that's worth the effort every time.
+featuredimage: /img/equipo.jpg
 tags:
-  - brewing
-  - chemex
+  - Equipos
+  - Empresa
+  - Trabajo
+  - Desarrollo
 ---
-![chemex](/img/chemex.jpg)
+![Equipo Trabajo](/img/equipo.jpg "Equipo de trabajo")
 
-This week we’ll **take** a look at all the steps required to make astonishing coffee with a Chemex at home. The Chemex Coffeemaker is a manual, pour-over style glass-container coffeemaker that Peter Schlumbohm invented in 1941, and which continues to be manufactured by the Chemex Corporation in Chicopee, Massachusetts.
+El trabajo en equipo puede ser beneficioso para una empresa o organización ya que permite aprovechar las fortalezas y habilidades de cada miembro del equipo para lograr resultados más efectivos y eficientes. Algunas de las ventajas del trabajo en equipo incluyen:
 
-In 1958, designers at the [Illinois Institute of Technology](https://www.spacefarm.digital) said that the Chemex Coffeemaker is _"one of the best-designed products of modern times"_, and so is included in the collection of the Museum of Modern Art in New York City.
+* Mayor productividad: Los miembros del equipo pueden dividir el trabajo entre sí y utilizar sus habilidades y conocimientos para completar tareas de manera más rápida y efectiva.
+* Mayor creatividad: El trabajo en equipo permite a los miembros del equipo intercambiar ideas y perspectivas, lo que puede llevar a soluciones más creativas y originales.
+* Mayor satisfacción y motivación: Los miembros del equipo que sienten que están contribuyendo al éxito del equipo pueden sentirse más motivados y satisfechos con su trabajo.
+* Mayor aprendizaje: Al trabajar en equipo, los miembros del equipo pueden aprender unos de otros y compartir sus conocimientos y habilidades.
 
-## The little secrets of Chemex brewing
 
-The Chemex Coffeemaker consists of an hourglass-shaped glass flask with a conical funnel-like neck (rather than the cylindrical neck of an Erlenmeyer flask) and uses proprietary filters, made of bonded paper (thicker-gauge paper than the standard paper filters for a drip-method coffeemaker) that removes most of the coffee oils, brewing coffee with a taste that is different than coffee brewed in other coffee-making systems; also, the thicker paper of the Chemex coffee filters may assist in removing cafestol, a cholesterol-containing compound found in coffee oils. Here’s three important tips newbies forget about:
+Sin embargo, el trabajo en equipo también puede presentar desafíos. Es importante que los miembros del equipo estén comprometidos con el objetivo común y trabajen juntos de manera armoniosa y respetuosa. También es importante establecer roles y responsabilidades claros y establecer una comunicación efectiva para asegurar que el equipo funcione de manera eficiente y efectiva.
 
-1. Always buy dedicated Chemex filters.
-2. Use a scale, don’t try to eyeball it.
-3. Never skip preheating the glass.
-4. Timing is key, don’t forget the clock.
 
-The most visually distinctive feature of the Chemex is the heatproof wooden collar around the neck, allowing it to be handled and poured when full of hot water. This is turned, then split in two to allow it to fit around the glass neck. The two pieces are held loosely in place by a tied leather thong. The pieces are not tied tightly and can still move slightly, retained by the shape of the conical glass.
+Tengo más mucho tiempo trabajando para una empresa en donde constantemente comentan el trabajo en equipo, pero existe o solo son mitos de los empresarios para que los Godínez realicen tus actividades.
 
-For a design piece that became popular post-war at a time of Modernism and precision manufacture, this juxtaposition of natural wood and the organic nature of a hand-tied knot with the laboratory nature of glassware was a distinctive feature of its appearance.
+
+Hasta la fecha he visto muchos compañeros ir y venir, la rotación no es mucha, pero significa algo, cuando se trata de realmente meter las manos a la masa, como dicen muchos en el campo; es cuando nadie quiere hacer las cosas, cuando es momento de ver a todos paleando en el sol es cuando desaparece el equipo.
+
+
+Es triste pero una realidad no muchos jefes o lideres quieren estar en las trincheras, solo quieren sentir su silla cómoda, y el aire acondicionado en 24 grados.
+
+
+Para mí el trabajo en equipo es estar ahí, sé que no soy el mejor peleador, pero al menos puedo pasarle un vaso de agua el que si lo es, puedo también contribuir en la toma de decisión de algunas cosas que solo cuando este en el momento de la ejecución se deben tomar, simplemente como apoyo moral.
