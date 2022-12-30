@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: El mundo visto
-image: /img/dji_0007.jpg
+image: /img/DJI_0001.jpg
 heading: Developer FrontEnd
 subheading: desde mis ojos a traves de mis lentes
 mainpitch:
