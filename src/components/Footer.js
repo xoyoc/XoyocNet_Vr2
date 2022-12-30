@@ -10,12 +10,12 @@ import youtube from "../img/social/youtube.svg";
 const Footer = () => {
   
     return (
-      <footer className="footer has-background-black">
+      <footer className="footer fondoPiePagina">
         <div className="content has-text-centered">
           <img
             src={logo}
             alt="Logo xoyoc.net"
-            style={{ width: "14em", height: "10em" }}
+            style={{ width: "12em", height: "6em" }}
           />
         </div>
         <div className="content has-text-centered has-background-black has-text-white-ter">
