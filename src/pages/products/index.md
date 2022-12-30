@@ -1,42 +1,32 @@
 ---
-heading: Great coffee with a conscience
+heading: Ser fotógrafo es una profesión muy gratificante.
 path: /products
 templateKey: product-page
 title: Fotografía
 image: /img/DJI_0004 (1).jpg
-description: Kaldi is the ultimate spot for coffee lovers who want to learn
-  about their java’s origin and support the farmers that grew it. We take coffee
-  production, roasting and brewing seriously and we’re glad to pass that
-  knowledge to anyone.
+description: Muy gratificante que te permite expresar tu creatividad y capturar
+  imágenes que pueden llegar a ser muy impactantes. Si estás interesado en
+  convertirte en fotógrafo, hay algunas cosas que deberías considerar.
 intro:
   blurbs:
-    - image: /img/coffee.png
-      text: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
-    - image: /img/coffee-gear.png
-      text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
-    - image: /img/tutorials.png
-      text: >
-        Love a great cup of coffee, but never knew how to make one? Bought a
-        fancy new Chemex but have no clue how to use it? Don't worry, we’re here
-        to help. You can schedule a custom 1-on-1 consultation with our baristas
-        to learn anything you want to know about coffee roasting and brewing.
-        Email us or call the store for details.
-    - image: /img/meeting-space.png
-      text: >
-        We believe that good coffee has the power to bring people together.
-        That’s why we decided to turn a corner of our shop into a cozy meeting
-        space where you can hang out with fellow coffee lovers and learn about
-        coffee making techniques. All of the artwork on display there is for
-        sale. The full price you pay goes to the artist.
+    - image: /img/2465.jpg
+      text: >-
+        Aprende sobre el equipo fotográfico: es importante conocer las
+        diferentes cámaras y lentes disponibles y cómo funcionan.
+
+
+        Practica: la práctica es clave para mejorar tus habilidades fotográficas. Dedica tiempo a tomar fotografías y experimentar con diferentes ángulos y luz.
+    - image: /img/20539.jpg
+      text: >-
+        Aprende sobre composición y luz: la composición y la luz son elementos
+        clave en la fotografía. Aprende sobre diferentes técnicas de composición
+        y cómo usar la luz para crear imágenes impactantes.
+
+
+        Desarrolla tu estilo: encuentra tu propio estilo y pasa tiempo practicando y desarrollando tus habilidades.
+
+
+        Considera la educación y la certificación: si quieres hacer de la fotografía tu carrera, puede ser útil obtener una certificación o un título en fotografía. Hay muchas escuelas y programas de formación disponibles que te pueden ayudar a desarrollar tus habilidades y conocimientos.
   heading: What we offer
   description: >
     Kaldi is the ultimate spot for coffee lovers who want to learn about their
@@ -44,12 +34,15 @@ intro:
     production, roasting and brewing seriously and we’re glad to pass that
     knowledge to anyone. This is an edit via identity...
 main:
-  heading: Great coffee with no compromises
+  heading: La fotografía aérea
   description: >
-    We hold our coffee to the highest standards from the shrub to the cup.
-    That’s why we’re meticulous and transparent about each step of the coffee’s
-    journey. We personally visit each farm to make sure the conditions are
-    optimal for the plants, farmers and the local environment.
+    La fotografía aérea es un tipo de fotografía que se toma desde el aire,
+    generalmente desde un avión, un drone o un globo aerostático. Esta técnica
+    se utiliza a menudo para capturar imágenes de paisajes, edificios y otras
+    estructuras desde una perspectiva única y diferente.
+
+
+    Para hacer fotografía aérea, es necesario tener un equipo fotográfico adecuado, como una cámara réflex digital o una cámara de medio formato con un objetivo de gran angular. También es importante tener en cuenta la luz y la composición, ya que pueden ser muy diferentes desde el aire.
   image1:
     alt: Fotografía Aerea
     image: /img/DJI_0374.jpeg
