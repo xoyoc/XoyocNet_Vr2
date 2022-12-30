@@ -10,7 +10,7 @@ import youtube from "../img/social/youtube.svg";
 const Footer = () => {
   
     return (
-      <footer className="footer fondoPiePagina">
+      <footer className="footer">
         <div className="content has-text-centered">
           <img
             src={logo}
@@ -18,8 +18,8 @@ const Footer = () => {
             style={{ width: "12em", height: "6em" }}
           />
         </div>
-        <div className="content has-text-centered has-background-black has-text-white-ter">
-          <div className="container has-background-black has-text-white-ter">
+        <div className="content has-text-centered fondoPiePagina has-text-white-ter">
+          <div className="container fondoPiePagina has-text-white-ter">
             <div style={{ maxWidth: "100vw" }} className="columns">
               <div className="column is-4">
                 <section className="menu">
