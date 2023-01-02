@@ -8,7 +8,7 @@ export default () => (
       <div className="container">
         <div className="content">
           <h1>Muchas Gracias!</h1>
-          <p>Esta es una página de agradecimiento personalizada para los envíos de formularios</p>
+          <p>Nos pondremos en contacto con usted a la mayor brevedad posible.</p>
         </div>
       </div>
     </section>
