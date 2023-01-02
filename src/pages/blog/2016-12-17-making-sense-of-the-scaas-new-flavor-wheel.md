@@ -16,7 +16,7 @@ tags:
   - Paisajes
   - Tecnología
 ---
-![Fotografía area drone DJI](/img/DJI_0004 (1).jpg "Puerto de Lázaro Cárdenas")
+![Fotografía area drone DJI](/img/DJI_0008.JPG "Puerto de Lázaro Cárdenas")
 
 Siempre he querido ver el mundo desde lo mas alto posible con los drones logre hacer unos de mis sueños realidad.
 

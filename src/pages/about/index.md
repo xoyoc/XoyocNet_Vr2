@@ -3,7 +3,7 @@ templateKey: about-page
 path: /about
 title: Quien soy?
 ---
-## Antonio Xoyoc Becerra Farias 
+## Antonio Xoyoc Becerra Farias
 
 V﻿ivo en la costa michoacana, Desarrollador FrontEnd, Polito de drones y fotografo apasionado.
 
@@ -19,4 +19,4 @@ Un piloto de drones es una persona que opera y mantiene drones, también conocid
 
 #### F﻿otografo apasionado
 
-Ser fotógrafo es una profesión muy gratificante que te permite expresar tu creatividad y capturar imágenes que pueden llegar a ser muy impactantes. Si estás interesado en convertirte en fotógrafo, hay algunas cosas que deberías considerar.
+Ser fotógrafo es una profesión muy gratificante que te permite expresar tu creatividad y capturar imágenes que pueden llegar a ser muy impactantes.
