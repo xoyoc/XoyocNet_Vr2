@@ -148,3 +148,39 @@ a.navbar-item.is-active, a.navbar-item:focus, a.navbar-item:focus-within, a.navb
 a.navbar-item.is-active, a.navbar-item:focus, a.navbar-item:focus-within, a.navbar-item:hover
   background-color: $black !important
   color: white !important
+.blog-card
+  display: flex
+  flex-direction: column
+  margin: 1rem auto
+  box-shadow: 0 3px 7px -1px rgba(#000, .1)
+  margin-bottom: 1.6%
+  background: $color_white
+  line-height: 1.4
+  font-family: sans-serif
+  border-radius: 5px
+  overflow: hidden
+  z-index: 0
+  h1
+    line-height: 1
+    margin: 0
+    font-size: 1.7rem
+  h2
+    font-size: 1rem
+    font-weight: 300
+    text-transform: uppercase
+    color: $color_grey_dark
+    margin-top: 5px
+  .boton
+    background-color: none
+    border: none
+    color: white
+    padding: 15px 32px
+    text-align: center
+    text-decoration: none
+    display: inline-block
+    font-size: 16px
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.4s
+  .boton:hover
+    background-color: $blue
+    color: white
