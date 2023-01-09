@@ -54,12 +54,12 @@ main:
     journey. We personally visit each farm to make sure the conditions are
     optimal for the plants, farmers and the local environment.
   image1:
-    alt: A close-up of a paper filter filled with ground coffee
-    image: /img/products-grid3.jpg
+    alt: Ciudad Lázaro Cárdenas
+    image: /img/DJI_0672.jpg
   image2:
-    alt: A green cup of a coffee on a wooden table
-    image: /img/products-grid2.jpg
+    alt: APM Terminal
+    image: /img/DJI_0027.JPG
   image3:
-    alt: Coffee beans
-    image: /img/products-grid1.jpg
+    alt: HPH Terminal
+    image: /img/DJI_0008.JPG
 ---
