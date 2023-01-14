@@ -53,12 +53,14 @@ main:
     alt: Fotografía nocturna
     image: /img/_DSC4247.jpg
 testimonials:
-  - author: Elisabeth Kaurismäki
-    quote: The first time I tried Kaldi’s coffee, I couldn’t even believe that was
-      the same thing I’ve been drinking every morning.
-  - author: Philipp Trommler
-    quote: Kaldi is the place to go if you want the best quality coffee. I love
-      their stance on empowering farmers and transparency.
+  - author: Dasf Joce
+    quote: "La sección de fotos es impresionante. Las imágenes son de alta calidad y
+      capturan perfectamente la belleza y el detalle de cada fotografía. Me
+      encanta la variedad de temas que ofrecen, desde paisajes hasta retratos,
+      todas las imágenes son impresionantes. "
+  - author: Mari San
+    quote: La sección de fotos es verdaderamente impresionante. La calidad de las
+      imágenes es excepcional y me permite ver cada detalle con claridad.
 full_image: /img/_DSC0691.jpg
 pricing:
   heading: Monthly subscriptions
