@@ -6,7 +6,7 @@ description: "La costa de Michoacán es uno de los lugares más bellos de Méxic
   Alberga algunas de las mejores playas del país, como las de Puerto Vallarta y
   Cabo San Lucas. Pero si busca algo más que complejos turísticos y hoteles,
   ¡este es su lugar! He aquí algunas cosas que hacen única a esta región:"
-featuredpost: true
+featuredpost: false
 featuredimage: /img/DJI_0101a.jpg
 tags:
   - LázaroCárdenas
