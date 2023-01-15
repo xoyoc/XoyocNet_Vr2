@@ -12,7 +12,7 @@ description: >-
 
 
   En 2006, el puerto manipuló nueve millones de toneladas de mercancías, lo que lo convierte en uno de los más productivos de México.
-featuredpost: true
+featuredpost: false
 featuredimage: /img/DJI_0005.JPG
 tags:
   - Puerto
