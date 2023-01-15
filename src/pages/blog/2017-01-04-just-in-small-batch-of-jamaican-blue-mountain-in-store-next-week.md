@@ -7,7 +7,7 @@ description: Un desarrollador frontend es un profesional de la tecnología que s
   pueden ver y interactuar directamente. Esto incluye la estructura y el diseño
   del sitio, así como también la forma en que se presentan y funcionan las
   páginas y los elementos de la interfaz de usuario.
-featuredpost: true
+featuredpost: false
 featuredimage: /img/4401280.jpg
 tags:
   - Codigo
