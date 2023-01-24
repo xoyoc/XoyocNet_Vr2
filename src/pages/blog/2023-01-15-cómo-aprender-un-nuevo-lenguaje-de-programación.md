@@ -8,7 +8,7 @@ description: Mi primer lenguaje de progrmación fue Clipper 5.2 un lenguaje
   pero eso ya no me toco echarle mano de lleno, ahora si deseas iniciar a
   programar te dire que aprendas Python es de lo mejor que puedes encontrar
   estos días.
-featuredpost: true
+featuredpost: false
 featuredimage: /img/clipper.png
 tags:
   - Developer
