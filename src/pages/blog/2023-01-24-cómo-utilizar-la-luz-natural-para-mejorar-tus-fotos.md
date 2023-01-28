@@ -6,7 +6,7 @@ description: La luz natural es una herramienta esencial para los fotógrafos ya
   que puede afectar el tono, el contraste y la atmósfera de una foto. Utilizar
   la luz natural de manera efectiva puede mejorar significativamente la calidad
   de tus fotos y ayudar a contar la historia que deseas contar.
-featuredpost: true
+featuredpost: false
 featuredimage: /img/_DSC5173.jpg
 tags:
   - Fotos
