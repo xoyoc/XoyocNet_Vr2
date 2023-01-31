@@ -20,6 +20,13 @@ tags:
   - Legal
   - Fotos
   - Aereas
+  - VueloSeguro
+  - LegalidadDrone
+  - PilotoResponsable
+  - RegulacionesDrone
+  - VueloDrone
+  - SeguridadAérea
+  - UsoLegalDrone
 ---
 Para volar de manera segura y legal, sigue estos pasos:
 
