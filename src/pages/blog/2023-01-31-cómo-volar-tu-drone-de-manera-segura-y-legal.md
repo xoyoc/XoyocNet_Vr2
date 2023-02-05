@@ -11,7 +11,7 @@ description: >-
 
 
   Las autoridades reguladoras del transporte aéreo son muy cuidadosas; tus actividades son vigiladas y si encuentras algo fuera de lo normal, debes reportarlo.
-featuredpost: true
+featuredpost: false
 featuredimage: /img/7706825.jpg
 tags:
   - Drone
