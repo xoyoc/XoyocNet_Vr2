@@ -31,9 +31,7 @@ tags:
   - Gitflow
   - BranchingMerging
 ---
-<!--StartFragment-->
-
-descripción general de los pasos para utilizar Git y GitHub para el control de versiones:
+Descripción general de los pasos para utilizar Git y GitHub para el control de versiones:
 
 1. Instalación de Git en su equipo: Antes de empezar, debe descargar e instalar Git en su computadora.
 2. Crear un repositorio en local: En una terminal o línea de comandos, navegue hasta la carpeta donde desea crear su proyecto y ejecute el comando "git init" para inicializar un repositorio local.
