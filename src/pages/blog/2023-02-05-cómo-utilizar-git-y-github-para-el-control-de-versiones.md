@@ -8,7 +8,7 @@ description: Git es un sistema de control de versiones de código fuente
   software y coordinar el trabajo entre múltiples colaboradores. Git es
   ampliamente utilizado en la industria y es una herramienta esencial para la
   colaboración y el desarrollo de proyectos en equipo.
-featuredpost: true
+featuredpost: false
 featuredimage: /img/git-github-cero.jpg
 tags:
   - Git
