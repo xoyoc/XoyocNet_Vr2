@@ -4,7 +4,7 @@ title: Cómo hacer fotografías y videos aéreos impresionantes con tu drone
 date: 2023-02-20T04:34:02.061Z
 description: "Para hacer fotografías y videos aéreos impresionantes con tu
   drone, sigue estos consejos:"
-featuredpost: true
+featuredpost: false
 featuredimage: /img/DJI_0672.jpg
 tags:
   - Dronephotography
