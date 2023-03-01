@@ -11,7 +11,7 @@ const InstagramPage = () => (
             <div>
                 <p>Vivo en la costa michoacana pasionado Developer, Pilot Drone y Fotografo.</p>
                 <div>
-                    <a href="tel:7531004073"><button className="boton">753 104 33 67</button></a>
+                    <a href="tel:7531004073"><button className="boton">753 100 40 73</button></a>
                     <a href="mailto:xoyoc_l2@hotmail.com"><button className="boton">xoyoc_l2@hotmail.com</button></a>
                 </div>
             </div>
