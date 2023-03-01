@@ -53,38 +53,40 @@ main:
     alt: Fotografía nocturna
     image: /img/_DSC4247.jpg
 testimonials:
-  - author: Elisabeth Kaurismäki
-    quote: The first time I tried Kaldi’s coffee, I couldn’t even believe that was
-      the same thing I’ve been drinking every morning.
-  - author: Philipp Trommler
-    quote: Kaldi is the place to go if you want the best quality coffee. I love
-      their stance on empowering farmers and transparency.
+  - author: Dasf Joce
+    quote: "La sección de fotos es impresionante. Las imágenes son de alta calidad y
+      capturan perfectamente la belleza y el detalle de cada fotografía. Me
+      encanta la variedad de temas que ofrecen, desde paisajes hasta retratos,
+      todas las imágenes son impresionantes. "
+  - author: Mari San
+    quote: La sección de fotos es verdaderamente impresionante. La calidad de las
+      imágenes es excepcional y me permite ver cada detalle con claridad.
 full_image: /img/_DSC0691.jpg
 pricing:
-  heading: Monthly subscriptions
+  heading: Seccion de fotografías
   description: We make it easy to make great coffee a part of your life. Choose
     one of our monthly subscription plans to receive great coffee at your
     doorstep each month. Contact us about more details and payment info.
   plans:
-    - description: Perfect for the drinker who likes to enjoy 1-2 cups per day.
+    - description: Fotografías para tus redes sociales o de producto.
       items:
-        - 3 lbs of coffee per month
-        - Green or roasted beans"
-        - One or two varieties of beans"
-      plan: Small
-      price: "50"
-    - description: Great for avid drinkers, java-loving couples and bigger crowds
+        - 30 Fotos editadas
+        - Personas o productos
+        - 15 días para entregar
+      plan: Basica
+      price: "500.00"
+    - description: Fotos para tu web o imagen de corporativa.
       items:
-        - 6 lbs of coffee per month
-        - Green or roasted beans
-        - Up to 4 different varieties of beans
-      plan: Big
-      price: "80"
-    - description: Want a few tiny batches from different varieties? Try our custom plan
+        - 100 Fotos Editadas
+        - Personas o productos
+        - 1 mes para la entrega
+      plan: Intermedia
+      price: 1,000.00
+    - description: Foto en localización solicitada por el cliente
       items:
-        - Whatever you need
-        - Green or roasted beans
-        - Unlimited varieties
-      plan: Custom
+        - 2 días de locación
+        - Entrega de todo el material de la seccion
+        - Costo adicional por edición de material
+      plan: Locación
       price: ??
 ---
