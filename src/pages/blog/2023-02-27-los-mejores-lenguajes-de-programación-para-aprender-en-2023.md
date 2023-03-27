@@ -7,7 +7,7 @@ description: La programación es una habilidad en alta demanda en la actualidad,
   tecnológico, la capacidad de escribir código y crear software es cada vez más
   valiosa en una amplia variedad de campos, desde la inteligencia artificial
   hasta el desarrollo web y móvil.
-featuredpost: true
+featuredpost: false
 featuredimage: /img/18146.jpg
 tags:
   - LenguajesDeProgramación
