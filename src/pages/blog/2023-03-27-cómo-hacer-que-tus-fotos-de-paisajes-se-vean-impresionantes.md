@@ -13,7 +13,7 @@ description: Las fotos de paisajes son una forma popular de capturar la belleza
   aficionado o un profesional, las fotos de paisajes pueden ser una forma
   gratificante de capturar momentos inolvidables.
 featuredpost: true
-featuredimage: /img/DJI_0101a.jpg
+featuredimage: /img/DJI_0007a.jpg
 tags:
   - fotografía
   - paisajes
